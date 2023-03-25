@@ -1,0 +1,13 @@
+Data Stroe :  Connection to a data store:
+Data Source :  Data source in storage
+File Type Data Source : Images etc.
+Tabular Data Source :  CSV
+Compute Instance :  vm equipped with python, R & other dev setup and it is used 
+Compute Targets :  A compute target is a designated compute resource or environment where you run your training script or host your service deployment. This location might be your local machine or a cloud-based compute resource. 
+Using compute targets makes it easy for you to later change your compute environment without having to change your code.
+
+
+Normalize Data - transformation Methods
+Z-score
+MinMax
+Logistic

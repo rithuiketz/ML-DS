@@ -1,0 +1,3 @@
+Inference  :  calling a ml model deployed in container through a rest api
+
+Inferrence Modes : individual data points  & Batch mode 
